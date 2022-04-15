@@ -1,0 +1,109 @@
+.ak{
+    height: 10px;
+    width:400px;
+    margin-left:600px;
+    color:blue;
+    font-size:20px;
+    font-style:normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    
+
+}
+.al{
+    height: 700px;;
+    width:400px;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    font-size: medium;
+    margin-left:600px;
+    margin-top:20px;
+    padding-top: 10px;
+    padding-left: 30px;
+    border-color: blue;
+    border-radius: 10px;
+    border:3px solid green;
+    
+    
+
+    
+
+
+}
+.abcd{
+    height: 100px;
+    width: 100px;
+    background: rebeccapurple;
+    /*margin: auto;*/
+    color: aliceblue;
+    margin-left: 10px;
+    margin-top: 80px;
+    margin-right: 50px;
+    text-align: justify;
+    /*float:right;*/
+    margin-bottom: 10px;
+    /*padding: 50px;*/
+    padding-left: 500px;
+   padding-right: 80px;
+    padding-top: 50px;
+    padding-bottom :50px;
+
+
+
+
+}
+.ae{
+    height:100px;
+    width:100px;
+    border:3px solid green;
+
+}
+
+.ac{
+    height: 100px;
+    width: 100px;
+    border: 3px solid green;
+    margin-bottom:50px;
+    border-top-left-radius: 115px;
+    border-bottom-left-radius: 60px;
+   /* border-top-right-radius: -60px;*/
+    border-bottom-right-radius: 115px;
+
+ background: red;
+ opacity:0.9;
+ transform:rotate(-10deg);
+ 
+ transition:1s;
+
+}
+.ac:hover{
+    background: blueviolet;
+
+}
+
+.ad{
+    height:100px;
+    width:100px;
+    /*border-left:3px solid green;
+    border-right:3px solid blue;
+    border-top:3px solid yellow;
+    border-bottom:3px solid red;
+    border-radius:55px;*/
+    background: blue;
+    margin-left: -40px;
+   /* border-top-left-radius: 110px;*/
+    border-top-left-radius: 115px;
+    border-bottom-left-radius: 60px;
+}
+.ag{
+    height:100px;
+    width:100px;
+    background: blue;
+    margin-top: -50px
+    margin-left: 120px;
+  
+   border-top-right-radius: -60px;
+    border-bottom-right-radius: -115px;
+
+}
